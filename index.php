@@ -22,6 +22,7 @@
       <div class="row-fluid">
         <div class="col-md-6 col-md-offset-3">
           <h1>Hi, I'm Frederick Jansen.</h1>
+          <img src="images/about-pic.jpg" alt="Frederick Jansen">
           <h2>In 2+ sentences describe who you are and what you do.</h2>
           <p>I'm a 25 year old full-time developer and occassional designer from Belgium. I currently work as a Client Core Engineer for one of Europe's biggest game development companies in Germany. Before that I spent some time in Boston for an internship, which is how I ended up back here.</p>
           <h2>Why are you taking this course?</h2>
@@ -29,7 +30,7 @@
           <h2>What previous experience do you have with HTML/CSS?</h2>
           <p>Both played a major part in college, where the full workflow from design to programming was part of the program. I still made the transition to HTML5 and CSS3, but for things like media queries and how "rem" works for sizing your entire website, I rely on the Mozilla Developer Network.</p>
           <h2>What previous experience do you have with programming?</h2>
-          <p>Most of my time these days is spent programming, though in my current job there are weeks where writing one line of code each day would be considered a major achievement. A lot of it is research and making sure a change doesn't break any of our Programming takes up about 80% of my time, the rest is talking to non-technical teams to ensure their needs are met.</p>
+          <p>Most of my time these days is spent programming, though in my current job there are weeks where writing one line of code each day would be considered a major achievement. A lot of it is research and making sure a change doesn't break any of our games. I also spend about 20% of my time talking to non-technical teams to ensure their needs are met.</p>
           <h2>Have you worked with PHP before? If so, to what extent?</h2>
           <p>PHP formed a part of my undergrad studies, and I worked for a brief time as a PHP Developer for an agency. It's been a while since I touched it though, and never worked with Laravel. The agency had its custom framework, and I played around with Symfony in college.</p>
           <h2>Are you working on a Mac, PC, or some other platform?</h2>
